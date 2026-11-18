@@ -1,0 +1,16 @@
+{
+  "name": "kept-vault",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "kept-vault",
+      "database_id": "0b274caa-85dd-4657-ad72-e928c77ca5b7"
+    }
+  ],
+  "vars": {
+    "APP_ORIGINS": "https://app.getkeptjournal.com,https://cohort.getkeptjournal.com,https://kept-cohort.pages.dev,https://kept-app-6io.pages.dev"
+  },
+  "observability": { "enabled": true }
+}
